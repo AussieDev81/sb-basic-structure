@@ -1,0 +1,10 @@
+# Common settings
+
+server:
+  port: 8080
+
+spring:
+  application:
+    name: SPRING BOOT BASIC STRUCTURE
+  profiles:
+    active: H2
